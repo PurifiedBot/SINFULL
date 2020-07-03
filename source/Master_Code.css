@@ -112,7 +112,7 @@ Simplified-Green made by den -> https://github.com/denBot/Simplistic-CSS/blob/ma
 }
 
 [layer-id="user-settings"] .userSettingsAccount-2eMFVR:after{
-  content:var(--Theme-Variant)", "var(--Update-Text);
+  content:var(--Theme-Variant)";
   color: var(--Main-Colour);
 }
 
